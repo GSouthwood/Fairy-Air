@@ -1,4 +1,4 @@
-# Fairy-Air
+http://Fairy-Air
 Fake flight itineraries
 
 Here is something.
