@@ -40,7 +40,7 @@ p, h1, h2,h3,h4,a,form {
             padding: 14px 16px;
             text-decoration: none;
             text-shadow: -1px 0 #f533ff,0 1px #f533ff, 1px 0 #f533ff,0 -1px #f533ff;
-            font-family: "Arial Rounded MT Bold", "Helvetica Rounded", Arial, sans-serif;
+            
     }
      
         
@@ -49,7 +49,7 @@ p, h1, h2,h3,h4,a,form {
             background-color: #d200e6;
             color: white;
             text-shadow: -.5px 0 #be00cc,0 .5px #be00cc, .5px 0 #be00cc,0 -.5px #be00cc;
-            font-family: "Arial Rounded MT Bold", "Helvetica Rounded", Arial, sans-serif;
+            
             
         }
     /* intro style aka the opening paragraph aka section 1 style */
