@@ -89,18 +89,13 @@ p, h1, h2,h3,h4,a,form {
         border-radius: 4px;
         text-shadow: -.5px 0 #000000,0 .5px #000000, .5px 0 #000000,0 -.5px #000000;
         
-    }
-    /* Section 3 aka Example */
-    .secthree {
+    }   
+        
+    
+    img {
+        display: block;
         margin: auto;
         width: 100px;
-        
-    }
-    .secfour {
-        float: right;
-        background-color:white;
-        height: auto;
-        width: 10px;
     }
       
     
