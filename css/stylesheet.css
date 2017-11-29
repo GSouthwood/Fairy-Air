@@ -94,9 +94,7 @@ p, h1, h2,h3,h4,a,form {
     .secthree {
         margin-right: auto;
         margin-left: auto;
-        background-color: white;
-        height: auto;
-        width: 50px;
+        width: 100px;
         
     }
     .secfour {
