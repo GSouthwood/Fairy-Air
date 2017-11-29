@@ -92,7 +92,8 @@ p, h1, h2,h3,h4,a,form {
     }
     /* Section 3 aka Example */
     .secthree {
-        float: left;
+        margin-right: auto;
+        margin-left: auto;
         background-color: white;
         height: auto;
         width: 50px;
