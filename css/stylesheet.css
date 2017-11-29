@@ -92,8 +92,8 @@ p, h1, h2,h3,h4,a,form {
     }
     /* Section 3 aka Example */
     .secthree {
-        margin-right: auto;
-        margin-left: auto;
+        display: block;
+        margin: auto;
         width: 100px;
         
     }
